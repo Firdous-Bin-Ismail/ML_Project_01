@@ -8,7 +8,9 @@ Data Preprocessing:
 
 Cleaned the dataset by handling missing values, encoding categorical variables, and normalizing numerical features where necessary.
 
-Feature Engineering: Created new meaningful features to enhance model performance, such as transforming continuous variables into categorical bins and generating interaction terms.
+Feature Engineering: 
+
+Created new meaningful features to enhance model performance, such as transforming continuous variables into categorical bins and generating interaction terms.
 
 Feature Extraction & Selection:
 
