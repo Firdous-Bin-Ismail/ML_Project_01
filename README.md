@@ -17,3 +17,5 @@ Feature Extraction & Selection:
 Chi-Square Test: Applied the chi² test to assess the statistical significance of categorical features about the target variable.
 
 Pearson Correlation: Also evaluated numerical features based on their correlation with the target to identify and retain the most informative features.
+
+Finally, I created an ML model and checked its accuracy.
